@@ -1,0 +1,17 @@
+Git Bash Setup 
+1. Installing Git Bash
+2. mkdir FileName : to create a directory
+3. git clone git@github.com NandineeP/Flower.git Rose/ : IT clones Flower repositories in Rose directory
+4. git fetch origin:- fetches changes made
+5. git checkout -b Rose-Flower origin/main : it creates branch if it does not exist
+6. if branch exist then : git checkout Rose-Flower
+7. git status: used to get information of files which are untracked,pushed or deleted
+8. git add Hello.php: It is used to add file into current repository 
+9. git commit -m "configuration details": It gives information about the code of the file 
+Note: before commit configuration of username and email should be done
+git config --global user.name"Nandinee Patel"
+git config --global user.email"nandinee@gmail.com"
+10.git push origin Rose-Flower : pushes the Rose-Flower into origin
+11.git merge --no-ff origin/Rose-Flower: It merges origin and Rose-Flower into one 
+12. SSH key: unique id given to device 
+
