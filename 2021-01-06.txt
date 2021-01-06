@@ -1,0 +1,13 @@
+Git Commands:
+
+1. rm ABC.txt : removes file 
+
+2. git log: gives list of file that are commited
+
+3. git log --follow [fileName]: it is used to check only one specific file is committed or not
+
+4. git pull origin: it pulls the and makes changes on it own without asking. (While fetch stores it in and them merge command it used)
+
+5. Difference between remote repository and local repository?
+Ans: Remote repository it a main server which is shared and access by everyone in group. While local repository is your own personal device.
+
