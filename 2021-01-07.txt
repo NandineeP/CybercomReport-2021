@@ -1,0 +1,28 @@
+Git Command 
+
+1. git branch -D [branch-name]: deletes repository locally
+
+2. git push origin --delete [branch-name]: deletes remote repository
+
+3. git init: initialise and create .git
+
+4. git diff ABC.txt: it is used to see the modification done in particular file
+
+5. git log -p: Shows modification which is done whem committed
+
+6.git log -p -1
+
+7.git log --pretty=oneline/short/full
+
+8.git log --since=3.days
+
+9.git log --pretty=formatt:"%h--%ae"
+
+10.git commit --amend
+
+11.git stash save"Practice"
+
+12.git stash list
+
+13.git stash pop stash{0}
+
