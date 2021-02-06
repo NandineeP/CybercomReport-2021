@@ -1,0 +1,28 @@
+div.registrationForm{
+	width:400px;
+	height:550px;
+	border:1px;
+	border-radius:5px;
+	margin:20px 400px;
+	background-color:white;
+	box-shadow:2px 2px 16px -3px #000000;
+}
+.registrationForm input[type="text"],.registrationForm input[type="password"],.registrationForm input[type="button"],.registrationForm select{
+	width:85%;
+	padding:5px;
+	border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+	border-bottom-style: groove;
+	border-radius:3px;
+	padding:7px;
+	font-size:15px;
+	padding-left:7px;
+	margin-left:25px;
+	margin:20px 10px 20px 30px;
+	border:1px solid gray;
+}
+p{
+
+	padding-left:400px;
+}

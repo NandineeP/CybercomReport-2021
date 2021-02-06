@@ -1,0 +1,27 @@
+h1{
+	padding-left:550px;
+}
+div.loginform{
+	width:400px;
+	height:320px;
+	margin:100px 400px;
+	background-color:#FFF192;
+}
+.loginform input[type="text"],.loginform input[type="password"],.loginform input[type="button"]{
+	width:85%;
+	padding:5px;
+	border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+	border-bottom-style: groove;
+	border-radius:3px;
+	padding:7px;
+	font-size:15px;
+	padding-left:7px;
+	margin-left:25px;
+	margin:20px 10px 20px 30px;
+	border:1px solid gray;
+}
+p{
+	padding-left:550px;
+}
